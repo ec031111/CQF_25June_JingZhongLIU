@@ -1,0 +1,13 @@
+Metric,Blending Ensemble,Baseline (LR)
+AUC-ROC,0.5003,0.5131
+Average Precision,0.4775,0.4681
+Balanced Accuracy,0.5008,0.5110
+MCC,0.0018,0.0294
+F1 Score,0.5756,0.6031
+Brier Score,0.2793,0.2832
+Sharpe Ratio,1.427,1.194
+Sortino Ratio,2.201,1.835
+Total Return,403.35%,262.55%
+Max Drawdown,28.59%,41.47%
+Win Rate,60.95%,61.38%
+Profit Factor,1.66,1.52

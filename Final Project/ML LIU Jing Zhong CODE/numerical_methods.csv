@@ -1,0 +1,12 @@
+Method,Purpose,Implementation
+Self-Organizing Map (SOM),Feature clustering & selection,Custom class
+Fractional Differentiation,Stationarity with memory,Custom function
+VIF Analysis,Multicollinearity detection,statsmodels
+Logistic Regression,Base learner 1,sklearn
+Random Forest,Base learner 2,sklearn
+LightGBM,Base learner 3,lightgbm
+XGBoost,Base learner 4,xgboost
+Gradient Boosting,Base learner 5,sklearn
+Blending Ensemble,Meta-learner combination,Custom BlendingEnsemble class
+RandomizedSearchCV,Hyperparameter tuning,sklearn
+TimeSeriesSplit,Temporal cross-validation,sklearn
